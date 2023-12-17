@@ -1,5 +1,12 @@
 #
 
+## 4.1.1
+
++ Added Github, please report any issues!
++ Update dependencies
++ Fix minor bugs
++ Modified configs
+
 ## 4.1.0
 
 + Removed AEIOU TTS mod, people spam it too much
