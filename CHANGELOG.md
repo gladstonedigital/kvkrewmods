@@ -1,5 +1,9 @@
 #
 
+## 4.1.2
+
++ Added even more suits
+
 ## 4.1.1
 
 + Added Github, please report any issues!
