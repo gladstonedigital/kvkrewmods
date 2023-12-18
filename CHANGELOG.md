@@ -1,5 +1,10 @@
 #
 
+## 5.2.1
+
++ Reduce spawn rate of spawnable store items
++ Update dependencies
+
 ## 5.2.0
 
 + Removed Glowstick, it broke the terminal. Be sure to update to a fresh profile!
