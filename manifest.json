@@ -1,6 +1,6 @@
 {
   "name": "kvkrewmods",
-  "version_number": "5.1.0",
+  "version_number": "5.2.0",
   "website_url": "https://github.com/gladstonedigital/kvkrewmods",
   "description": "Balanced modpack to enhance the game with QoL updates, extra items, and some fun (mods for the boys)",
   "dependencies": [
@@ -19,7 +19,6 @@
     "Hamunii-JetpackWarning-2.2.0",
     "IntegrityChaos-Diversity-1.0.3",
     "MaxWasUnavailable-MoonOfTheDay-1.0.4",
-    "Asylud-Glowstick-1.0.2",
     "alexanderjoe-BiggeryBattery-1.0.2",
     "togglemybits-Strange_Objects-1.2.1",
     "quackandcheese-MirrorDecor-1.1.6",

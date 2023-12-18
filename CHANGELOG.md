@@ -1,5 +1,9 @@
 #
 
+## 5.2.0
+
++ Removed Glowstick, it broke the terminal. Be sure to update to a fresh profile!
+
 ## 5.1.0
 
 + Add Frequency Walkie
