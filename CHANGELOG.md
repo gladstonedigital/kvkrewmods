@@ -1,5 +1,16 @@
 #
 
+## 5.1.0
+
++ Add Frequency Walkie
++ Add Dimming Flashlights
++ Add Better Spraypaint
++ Add Trophy
++ Add Scannable Player Items
++ Add Parrying
++ Add Master Key
++ Add Plushies
+
 ## 5.0.0
 
 + Add Spawnable Store Items
