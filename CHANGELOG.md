@@ -1,5 +1,25 @@
 #
 
+## 5.0.0
+
++ Add Spawnable Store Items
++ Add Jetpacks Carry Big Items
++ Add Jetpack Fall Fix
++ Add Jetpack Warning
++ Add Glowstick
++ Add CoilHeadStare
++ Add Diversity
++ Add Mirror
++ Add Remote Remastered
++ Add Moon of the Day
++ Add Slime Taming Fix
++ Add BiggeryBattery
++ Add LethalPresents
++ Add Strange Objects with config to disable certain effects
++ Remove ExplosiveUnboxing (redundant)
++ Remove BetterSaves (conflict)
++ Update dependencies
+
 ## 4.1.6
 
 + Update dependencies
