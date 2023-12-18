@@ -1,5 +1,9 @@
 #
 
+## 4.1.5
+
++ Graphics settings tweak
+
 ## 4.1.4
 
 + Update dependencies
