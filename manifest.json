@@ -1,6 +1,6 @@
 {
   "name": "kvkrewmods",
-  "version_number": "4.1.3",
+  "version_number": "4.1.4",
   "website_url": "https://github.com/gladstonedigital/kvkrewmods",
   "description": "Balanced modpack to enhance the game with QoL updates, extra items, and some fun (mods for the boys)",
   "dependencies": [
@@ -15,7 +15,7 @@
     "FlipMods-ReservedFlashlightSlot-1.4.5",
     "FlipMods-ReservedWalkieSlot-1.4.6",
     "malco-Lategame_Upgrades-2.6.1",
-    "Suskitech-AlwaysHearActiveWalkies-1.4.2",
+    "Suskitech-AlwaysHearActiveWalkies-1.4.3",
     "Drakorle-MoreItems-1.0.1",
     "FlipMods-BetterStamina-1.2.1",
     "KoderTeh-Boombox_Controller-1.1.1",
@@ -68,7 +68,7 @@
     "e3s1-BetterLadders-1.2.2",
     "Po-LCPocketBoombox-1.0.0",
     "ViViKo-AllTheScrap-1.0.1",
-    "FlipMods-TooManyEmotes-1.3.6",
+    "FlipMods-TooManyEmotes-1.3.8",
     "Sligili-More_Emotes-1.2.2",
     "TheBeeTeam-PersistentPurchases-1.2.0",
     "ViViKo-MoreMaterials-1.2.0",
