@@ -1,5 +1,14 @@
 #
 
+## 6.0.1
+
++ Updated icon because I'm on a account now: kvkrew2
+
+## 6.0.0
+
++ Modpack finally works again!
++ Reinstall from scratch
+
 ## 5.2.1
 
 + Reduce spawn rate of spawnable store items

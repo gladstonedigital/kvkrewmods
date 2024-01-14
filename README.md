@@ -2,7 +2,7 @@
 
 This fully configured, curated modpack enhances gameplay while keeping the spirit true to the vanilla game.
 
-We've got QoL tweaks, lots of suits, new items, and more!
+We've got QoL tweaks, new items, and more!
 
 There's a few fun surprises too...
 
