@@ -1,5 +1,10 @@
 #
 
+## 6.1.0
+
++ Config changes
++ Update dependencies
+
 ## 6.0.1
 
 + Updated icon because I'm on a account now: kvkrew2
