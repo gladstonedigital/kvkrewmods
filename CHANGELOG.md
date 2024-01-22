@@ -1,5 +1,11 @@
 #
 
+## 6.1.1
+
++ Disable curse of voice
++ Enable curse of sight with lower debuff amount
++ Update dependencies
+
 ## 6.1.0
 
 + Config changes
