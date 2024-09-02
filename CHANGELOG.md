@@ -1,5 +1,18 @@
 #
 
+## 8.0.1
+
++ Config tweaks
+
+## 8.0.0
+
++ Made a mistake uploading 7.0.0 so I just bumped it to 8
+
+## 7.0.0
+
++ Updated mods
++ Removed deprecated
+
 ## 6.1.1
 
 + Disable curse of voice
